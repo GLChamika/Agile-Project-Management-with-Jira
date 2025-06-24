@@ -16,7 +16,7 @@ This project demonstrates my hands-on experience with **Jira** using the **Scrum
 
 ## 🧪 Example Use Case
 
-**Project:** *Amazon Fresh Infra Setup*  
+**Project:** *Amazon-fresh Infra Setup*  
 **Epic:** Setup infrastructure for Amazon Fresh  
 **User Stories:**
 
@@ -28,12 +28,6 @@ All stories are currently in **To Do** status and ready for sprint planning.
 
 ---
 
-## 📸 Jira Board
-
-![Jira Board](images/jira-board.png)
-
----
-
 ## 🧰 Tools Used
 
 - **Jira** – For project management and issue tracking
@@ -41,11 +35,10 @@ All stories are currently in **To Do** status and ready for sprint planning.
 
 ---
 
-## 📂 Repo Purpose
+## 📸 Jira Board
 
-This repository is meant to:
+![Jira Board](images/jira-board.png)
 
-- Display Agile project management skills
-- Show experience using Jira in real workflows
-- Help potential employers or collaborators evaluate practical knowledge of Scrum methodology
+
+
 
